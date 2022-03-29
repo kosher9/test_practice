@@ -1,0 +1,23 @@
+{
+  "name": "test_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "str_length.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosher9/test_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosher9/test_practice/issues"
+  },
+  "homepage": "https://github.com/kosher9/test_practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
